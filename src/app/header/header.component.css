@@ -1,0 +1,13 @@
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+ul {
+  list-style: none;
+  margin: none;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
